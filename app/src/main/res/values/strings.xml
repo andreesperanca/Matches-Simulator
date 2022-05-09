@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MatchesSimulator</string>
+    <string name="cd_home_team">Home Team</string>
+    <string name="txt_versus">X</string>
+    <string name="errorAPI">Erro inesperado.</string>
+</resources>
